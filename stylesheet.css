@@ -8,8 +8,17 @@ body {
 }
 
 /* Style for all paragraphs */
+  
+        h2 {
+            color: rgb(84, 79, 79);
+        }  
+        
+        body {
+            background-color: rgb(97, 250, 255);
+        }
+
 p {
-    color: darkblue;
+    color: black;
     font-size: 16px;
     font-family: 'source code pro', serif;
 }
